@@ -33,10 +33,10 @@ python scripts/evaluate.py --model results/models/final/vit_patch16_final.pth
 
 ## 📈 Results
 
-- **Accuracy**: 96.8%
-- **F1-Score**: 96.5%
-- **Precision**: 96.2%
-- **Recall**: 96.9%
+- **Accuracy**...
+- **F1-Score**:...
+- **Precision**: ...
+- **Recall**:...
 
 ## 📚 Documentation
 
