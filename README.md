@@ -19,21 +19,25 @@ python scripts/evaluate.py --model results/models/final/vit_patch16_final.pth
 ```
 
 ## 📊 Dataset
+
 - **Source**: COVID-19 Radiography Database
 - **Classes**: COVID-19, Normal, Viral Pneumonia, Lung Opacity
 - **Total Images**: ~21,000 images
 
 ## 🏗️ Architecture
+
 - Multi-Head Self-Attention (MHSA)
 - Feed-Forward Networks (FFN)
 - Layer Normalization & Residual Connections
 - Patch Sizes: 8×8, 16×16
 
 ## 📈 Results
+
 - **Accuracy**: 96.8%
 - **F1-Score**: 96.5%
 - **Precision**: 96.2%
 - **Recall**: 96.9%
 
 ## 📚 Documentation
+
 See `docs/` folder for detailed documentation.
