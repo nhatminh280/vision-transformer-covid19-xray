@@ -67,7 +67,7 @@ results/models/exported/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb
 
 # Weights & Biases
 wandb/
